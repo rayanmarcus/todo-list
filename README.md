@@ -16,7 +16,7 @@
 👉 `npm run build` - to build the project
 
 ### <span style="padding: 3px 3px; background: green; color: #fff;">🧐 Lints and fixes files</span>
-`npm run lint`
+👉 `npm run lint`
 
 #### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">🔗 See it in production on Netlify</span>
 👉 [Cooming soon](#)
