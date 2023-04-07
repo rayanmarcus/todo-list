@@ -1,4 +1,4 @@
-# Todo List
+# Todo List - Created with Vue 3 and Bootstrap
 
 ## 🤖 Instalation to project
 
