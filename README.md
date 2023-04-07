@@ -6,14 +6,14 @@
 
 #### <span style="padding: 3px 3px; background: blue; color: #fff;">🛠 Installation  of dependencies</span>
 
-👉 `npm install` - use this command for install all dependencies required.
+👉 `npm install`
 
-#### <span style="padding: 3px 3px; background: blue; color: #fff;">💻 For development</span>
+#### <span style="padding: 3px 3px; background: blue; color: #fff;">💻 To start the development environment</span>
 
-👉 `npm run serve` - to initialize  the front-end server.
+👉 `npm run serve`
 
-#### <span style="padding: 3px 3px; background: green; color: #fff;">👌 For production</span>
-👉 `npm run build` - to build the project
+#### <span style="padding: 3px 3px; background: green; color: #fff;">👌 To build the project into production</span>
+👉 `npm run build`
 
 ### <span style="padding: 3px 3px; background: green; color: #fff;">🧐 Lints and fixes files</span>
 👉 `npm run lint`
