@@ -1,24 +1,23 @@
-# challenge-curotec
+# Todo List
 
-## Project setup
-```
-npm install
-```
+## 🤖 Instalation to project
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Clone or to make download of the repository and run the following commands:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### <span style="padding: 3px 3px; background: blue; color: #fff;">🛠 Installation  of dependencies</span>
 
-### Lints and fixes files
+- `npm install` - use this command for install all dependencies required.
+
+#### <span style="padding: 3px 3px; background: blue; color: #fff;">💻 For development</span>
+
+- `npm run serve` - to initialize  the front-end server.
+
+#### <span style="padding: 3px 3px; background: green; color: #fff;">👌 For production</span>
+- `npm run build` - to build the project
+
+### <span style="padding: 3px 3px; background: green; color: #fff;">🧐 Lints and fixes files</span>
 ```
 npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">🔗 See it in production on Netlify</span>
+- [Cooming soon](#)
